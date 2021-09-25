@@ -26,13 +26,7 @@ textarea{
     margin: auto;
     max-width: 650px;
 }
-footer{
-    padding: 1rem;
-    text-align: center;
-    background-color: rgb(229, 255, 0);
-    padding-bottom: 5rem;
-    border-top-right-radius: 1rem ;
-}
+
 ul{
     list-style: none;
 }
@@ -54,4 +48,11 @@ li{
 img{
     display: inline;
     width: 1.1rem;
+}
+footer{
+    padding: 2rem;
+    text-align: center;
+    background-color: rgb(229, 255, 0);
+    padding-bottom: 5rem;
+    border-top-right-radius: 1rem ;
 }
